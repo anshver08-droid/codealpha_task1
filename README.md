@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Corner Shop: Simple E-commerce Store
 
 Express.js + SQLite backend, vanilla HTML/CSS/JS single-page frontend.
@@ -50,3 +51,6 @@ ecommerce-store/
 ## Next steps
 
 Real payments (Stripe), an admin page for products, HTTPS and rate limiting before going live.
+=======
+# codealpha_task1
+>>>>>>> 4415d90f7badae5be13e8479afcebea759617d4d
